@@ -10,4 +10,5 @@ and configure jenkins
 1.java
 2.maven
 3.git for this project
+hi
 webhook trigger  t jenkins......
